@@ -2,4 +2,8 @@
 <resources>
 
     <dimen name="ButtonTextSize" > 30sp</dimen>
+    <dimen name="NewButtonTextSize" > 28sp</dimen>
+    <dimen name="marginTop">15dp</dimen>
+    <dimen name="marginStart">15dp</dimen>
+
 </resources>
